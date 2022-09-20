@@ -388,8 +388,21 @@
         margin-bottom: 0;
         color: var(--very-light-pink);
       }
- 
+ .product-info {
+  padding: 0 20px;
+ }
 
+ #p {
+  font-weight: bold;
+ }
+ #bike {
+  font-size: var(--sm);
+  color: var(--very-light-pink);
+ }
+ #parrafo {
+  font-size: var(--sm);
+  color: var(--very-light-pink);
+ }
     @media (max-width: 640px) {
       .menu {
         display: block;
